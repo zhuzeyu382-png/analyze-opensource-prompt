@@ -1,0 +1,4 @@
+interface:
+  display_name: "Open Source Prompt Analyzer"
+  short_description: "Map prompts, tools, and LLM usage in repos"
+  default_prompt: "Use $analyze-open-source-prompts to analyze prompts, tool schemas, and LLM usage in this cloned repository."
